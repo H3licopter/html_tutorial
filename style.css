@@ -1,0 +1,16 @@
+p {
+  font-size: 20px;
+  color: rgb(255, 0, 0);
+}
+
+.center-text {
+  text-align: center;
+}
+
+.another-custom-style {
+  color: rgb(76, 98, 242);
+}
+
+.spacetext {
+  letter-spacing: 12px;
+}
